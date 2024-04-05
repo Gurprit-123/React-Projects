@@ -1,0 +1,13 @@
+.app-container{
+  display: flex;
+}
+.header-footer-content{
+  width: 100%;
+}
+.sidebar{
+  min-height: 740px;
+}
+.loader{
+  margin-left: 50%;
+  margin-top: 50px;
+}
